@@ -1,16 +1,22 @@
-# expense_program
+# 💰 Personal Expense Tracker
 
-A new Flutter project.
+تطبيق تفاعلي لإدارة المصاريف الشخصية مبني باستخدام **Flutter**. يساعد المستخدم على تتبع نفقاته الأسبوعية من خلال رسوم بيانية ديناميكية وقوائم تفاعلية.
 
-## Getting Started
+## 🌟 نبذة عن المشروع
+هذا المشروع يمثل محاكاة لتطبيق مالي حقيقي، قمت ببنائه أثناء دراستي لكورس ماكسيميليان "Flutter & Dart - The Complete Guide".
+**هدفي من المشروع:**
+- تطبيق مفاهيم الـ State Management ورفع حالة البيانات (Lifting State Up).
+- التعامل مع مدخلات المستخدم (User Input) والنوافذ المنبثقة (Modal Sheets).
+- تصميم واجهة مستخدم (UI) متجاوبة وجذابة.
 
-This project is a starting point for a Flutter application.
+## 🛠️ المميزات التقنية (Features)
+* **دعم اللغة العربية:** إمكانية كتابة عناوين المصروفات والملاحظات باللغة العربية، مع توافق كامل للنصوص.
+* **رسم بياني ديناميكي (Chart):** يعرض ملخص المصروفات لآخر 7 أيام.
+* **إضافة المعاملات:** واجهة سهلة لإضافة المصروفات مع اختيار التاريخ.
+* **قائمة متجاوبة:** عرض المصروفات في قائمة (ListView) سريعة الأداء.
+* **حذف العناصر:** إمكانية حذف أي مصروف بالسحب أو الضغط.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 التقنيات المستخدمة
+- Flutter & Dart
+- Intl (Date Formatting)
+- Google Fonts
